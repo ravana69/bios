@@ -69,7 +69,7 @@ $(document).ready(function () {
 			}			
 		}
 		if(e.which == 13) { //enter
-			window.open("https://geekprank.com/boot-device-not-found/","_self");
+			window.open("https://ravana69.github.io/bios/geekprank.com/boot-device-not-found/index.html","_self");
 		}
 		if(e.which == 112) { //F1
 			
@@ -81,7 +81,7 @@ $(document).ready(function () {
 			
 		}
 		if(e.which == 120) { //F9
-			window.open("https://geekprank.com/boot-device-not-found/","_self");
+			window.open("https://ravana69.github.io/bios/geekprank.com/boot-device-not-found/index.html","_self");
 		}		
 	});	
 	setTime();	
